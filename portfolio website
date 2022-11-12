@@ -1,0 +1,181 @@
+
+    <li class="menu-text">Portfolio</li>
+    <li><a href="#experience">Experience</a></li>
+    <li><a href="#projects">Projects</a></li>
+    <li><a href="#education">Education</a></li>
+    </ul>
+    </div>
+    <div class="title-bar" data-responsive-toggle="realEstateMenu" data-hide-for="small">
+        <button class="menu-icon" type="button" data-toggle></button>
+        <div class="title-bar-title">Menu</div>
+    </div>
+    <div class="top-bar" id="realEstateMenu">
+        <div class="top-bar-left">
+            <ul class="menu" data-responsive-menu="accordion">
+                <div class="top-bar-right">
+                    <ul class="menu">
+                        <li><a class="button">Contact me</a></li>
+                    </ul>
+                </div>
+        </div>
+
+        <br>
+        <div class="row">
+            <div class="medium-7 large-6 columns">
+                <h1>pavankalee</h1>
+                <h4>Computer softare engineer</h4>
+                <p class="subheader">Full-stack web computer engineer.i did small manior projects and major projects</p>
+                <button class="button">View portfolio</button>
+                <button class="button">Contact me</button>
+            </div>
+            <div class="show-for-large large-3 columns">
+                <img id="avatar" src="blobhttps://www.instagram.com/p/Cg_jKs7pbZO/?hl=en" alt="picture of pavankalee">
+            </div>
+            <div class="medium-5 large-3 columns">
+                <div class="callout secondary">
+                    <form>
+                        <div class="row">
+                            <div class="small-12 columns">
+                                <label>Leave me a message ... 
+        <textarea rows="3" placeholder="Type your message">                               </textarea>
+                            </label>
+                            </div>
+                            <div class="small-12 columns">
+                                <label>Your email
+                                <input type="text" placeholder="contact@example.com">
+                                </label>
+                                <button type="submit" class="button">Send now</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="row column">
+            <hr>
+        </div>
+        <div class="row column">
+            <p class="lead">Portfolio</p>
+        </div>
+        <div class="row small-up-1 medium-up-2 large-up-3 ">
+            <div class="column ">
+                <div class="callout portfolio-block ">
+                    <p>Logic-immo</p>
+                    <p><img src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=1000 " alt="image of a web development "></p>
+                    <p class="lead ">WEB DEVELOPMENT</p>
+                    <p class="subheader ">developing the realestate website</p>
+                </div>
+            </div>
+            <div class="column ">
+                <div class="callout portfolio-block ">
+                    <p>developing website</p>
+                    <p><img src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=740&t=st=1668267097~exp=1668267697~hmac=cb2c56bc0fc4fb7956d8934b3d9e73dae5a0fe814052ce9ce6c28445fb87cd31
+            " alt="developing the website "></p>
+                    <p class="lead ">Copernican Revolution caused an uproar</p>
+                    <p class="subheader ">creating the website</p>
+                </div>
+            </div>
+            <div class="column ">
+                <div class="callout portfolio-block ">
+                    <p>Immoweb</p>
+                    <p>
+                        <img src="https://img.freepik.com/free-photo/web-design-internet-website-responsive-software-concept_53876-124757.jpg?size=626&ext=jpg&ga=GA1.2.490429643.1664645065 alt=" image of a planet called Pegasi B "></p>
+        <p class="lead ">Customizing the website</p>
+        <p class="subheader ">creating the websie based on the our interface</p>
+    </div>
+</div>
+<div class="column ">
+    <div class="callout portfolio-block ">
+        <p>Claroline.net</p>
+        <p>
+            <a href="http://www.claroline.net " target="_blank "><img src="http://www.lederer.be/portfolio/img/claroline.png "></a>
+        </p>
+        <p class="lead ">Opensource Elearning platform</p>
+        <p class="subheader ">Contributed, as a PHP developer, to various module development.</p>
+    </div>
+</div>
+<div class="column ">
+    <div class="callout portfolio-block ">
+        <p>Phonegap Mobile games</p>
+        <p><img src="https://img.freepik.com/free-vector/programming-languages-learning-software-coding-courses-website-development-class-script-writing-it-programmers-cartoon-characters_335657-3454.jpg?w=360&t=st=1668273449~exp=1668274049~hmac=3b3ee71421cfb0034cab0f7b8cb538e5e15bb47c7baca0ac121c1bbd1be4f7fc
+                            alt="image of a planet called Pegasi B "></p>
+                    <p class="lead ">Designing Website Based On The Our Market</p>
+                    <p class="subheader ">Find Earth-like planets life outside the Solar System</p>
+                </div>
+            </div>
+            <div class="column ">
+                <div class="callout portfolio-block ">
+                    <p>Tribute to Lego</p>
+                    <p><img src="https://img.freepik.com/free-photo/web-design-concepts-with-blurred-background_1134-82.jpg " alt="image of a planet called Pegasi B "></p>
+                    <p class="lead ">Bootstrap HTML/CSS responsive web page</p>
+                    <p class="subheader ">Small web project page made for the FreeCodeCamp tribute page exercise.</p>
+                </div>
+            </div>
+
+        </div>
+
+        <hr>
+
+        <div class="row column ">
+            <p class="lead ">Experience</p>
+        </div>
+
+        <hr>
+
+        <div class="row column ">
+            <p class="lead ">Education</p>
+        </div>
+
+        <footer>
+            <div class="row expanded callout secondary ">
+                <div class="small-6 large-3 columns ">
+                    <p class="lead ">Offices</p>
+                    <ul class="menu vertical ">
+                        <li><a href="# ">One</a></li>
+                        <li><a href="# ">Two</a></li>
+                        <li><a href="# ">Three</a></li>
+                        <li><a href="# ">Four</a></li>
+                    </ul>
+                </div>
+                <div class="small-6 large-3 columns ">
+                    <p class="lead ">Solar Systems</p>
+                    <ul class="menu vertical ">
+                        <li><a href="# ">One</a></li>
+                        <li><a href="# ">Two</a></li>
+                        <li><a href="# ">Three</a></li>
+                        <li><a href="# ">Four</a></li>
+                    </ul>
+                </div>
+                <div class="small-6 large-3 columns ">
+                    <p class="lead ">Contact</p>
+                    <ul class="menu vertical ">
+                        <li><a href="# "><i class="fi-social-twitter "></i> Twitter</a></li>
+                        <li><a href="# "><i class="fi-social-facebook "></i> Facebook</a></li>
+                        <li><a href="# "><i class="fi-social-instagram "></i> Instagram</a></li>
+                        <li><a href="# "><i class="fi-social-pinterest "></i> Pinterest</a></li>
+                    </ul>
+                </div>
+                <div class="small-6 large-3 columns ">
+                    <p class="lead ">Offices</p>
+                    <ul class="menu vertical ">
+                        <li><a href="# ">One</a></li>
+                        <li><a href="# ">Two</a></li>
+                        <li><a href="# ">Three</a></li>
+                        <li><a href="# ">Four</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="row ">
+                <div class="medium-6 columns ">
+                    <ul class="menu ">
+                        <li><a href="# ">Foundation css framework</a></li>
+                    </ul>
+                </div>
+                <div class="medium-6 columns ">
+                    <ul class="menu float-right ">
+                        <li class="menu-text ">Copyright </li>
+                    </ul>
+                </div>
+            </div>
+        </footer>
+</body>
